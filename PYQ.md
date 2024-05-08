@@ -1,5 +1,5 @@
-# Question 1) A. Indicate the loading state of a component or page with bootstrap spinners, built entirely with HTML, CSS.
-# B. Convert any Javascript value to a JSON string 
+### Question 1) A. Indicate the loading state of a component or page with bootstrap spinners, built entirely with HTML, CSS.
+### B. Convert any Javascript value to a JSON string 
 
 **Question 1A: Indicate the loading state of a component or page with Bootstrap spinners**
 
@@ -29,8 +29,8 @@ console.log(jsonString);
 
 <hr>
 
-# 2A. Using Grid System demonstrate row with three columns divided unevenly, Row with three columns divided evenly. 
-# 2B. Create CV using HTML, CSS.
+### 2A. Using Grid System demonstrate row with three columns divided unevenly, Row with three columns divided evenly. 
+### 2B. Create CV using HTML, CSS.
 
 **Question 2A: Using Grid System demonstrate row with three columns divided unevenly, Row with three columns divided evenly.**
 
@@ -113,8 +113,8 @@ console.log(jsonString);
 
 <hr>
 
-# 3A. Demonstrate linked contextual classes using list in Bootstrap.
-# 3B. Create simple form in HTML and CSS and demonstrate the use of various form elements like inputbox, textbox, submit, and radio button.
+### 3A. Demonstrate linked contextual classes using list in Bootstrap.
+### 3B. Create simple form in HTML and CSS and demonstrate the use of various form elements like inputbox, textbox, submit, and radio button.
 
 **Question 3A: Demonstrate linked contextual classes using lists in Bootstrap.**
 
@@ -208,13 +208,13 @@ console.log(jsonString);
 
 <hr>
 
-# 4A. Write a javascript to validate the following fields of the registration page. 
-# i. first name (Name should contain alphabet and length must not be more than 6 characters)
-# ii. Password (Password should not be less than 6 character length)
-# iii. Email id(must follow pattern name@domain.com)
-# iv. Mobile Number (must be of 10 digits)
-# v. Address (Must not be empty)
-# 4B. Create a dropdown button and split button dropdown using bootstrap.
+### 4A. Write a javascript to validate the following fields of the registration page. 
+### i. first name (Name should contain alphabet and length must not be more than 6 characters)
+### ii. Password (Password should not be less than 6 character length)
+### iii. Email id(must follow pattern name@domain.com)
+### iv. Mobile Number (must be of 10 digits)
+### v. Address (Must not be empty)
+### 4B. Create a dropdown button and split button dropdown using bootstrap.
 
 
 **Question 4A: JavaScript to validate registration page fields**
@@ -338,10 +338,10 @@ console.log(jsonString);
 
 <hr>
 
-# 5A. Design a web page required for an online book store web site. 
-# i. Home page : must have 3 frames. 
-# ii. Login Page
-# iii. Registration Page
+### 5A. Design a web page required for an online book store web site. 
+### i. Home page : must have 3 frames. 
+### ii. Login Page
+### iii. Registration Page
 
 # 5B. Create a service named as newservice and demonstrate dependencies injection at component level.
 
@@ -456,8 +456,8 @@ export class ExampleComponent implements OnInit {
 
 <hr>
 
-# 6A. Add and link Home, About us pages to your App using angular. 
-# 6B. Develop and demonstrate the usage of inline, internal and external style sheet using Css.
+### 6A. Add and link Home, About us pages to your App using angular. 
+### 6B. Develop and demonstrate the usage of inline, internal and external style sheet using Css.
 
 
 **Question 6A: Add and link Home, About us pages to your App using Angular**
@@ -540,13 +540,13 @@ Next, create links to navigate between these pages in your HTML template:
 
 <hr>
 
-# 7A. Develop and Demonstrate Javscript with POP UP boxes and functions for the following problems.
-# i. INPUT :  Click on Display Date button using OnClick() function. 
-#   OUTPUT : Display Date in the textbox.
-# ii. INPUT : A number  n obtained using prompt.
-#    OUTPUT : Factorial of n number using alert.
+### 7A. Develop and Demonstrate Javscript with POP UP boxes and functions for the following problems.
+### i. INPUT :  Click on Display Date button using OnClick() function. 
+###   OUTPUT : Display Date in the textbox.
+### ii. INPUT : A number  n obtained using prompt.
+###    OUTPUT : Factorial of n number using alert.
 
-# 7B. Create 5 button with style primary, secondary, success, danger, info using bootstrap
+### 7B. Create 5 button with style primary, secondary, success, danger, info using bootstrap
 
 **Question 7A: Develop and Demonstrate JavaScript with POP UP boxes and functions**
 
@@ -616,9 +616,9 @@ Next, create links to navigate between these pages in your HTML template:
 
 <hr>
 
-# 8A. Create a webpage that contains a selection box with a list of 5 countries. When the user selects a country, its capital should be printed next in the list. Add Css to customize the properties of font of the capital (color, bold and font size)
+### 8A. Create a webpage that contains a selection box with a list of 5 countries. When the user selects a country, its capital should be printed next in the list. Add Css to customize the properties of font of the capital (color, bold and font size)
 
-# 8B. Convert text '{"name" : "John", "age": 20, "city": "New York"}' into a JavaScript object  and display the result on webpage
+### 8B. Convert text '{"name" : "John", "age": 20, "city": "New York"}' into a JavaScript object  and display the result on webpage
 
 **Question 8A: Create a webpage with a selection box to display the capital of a selected country**
 
@@ -708,9 +708,9 @@ Next, create links to navigate between these pages in your HTML template:
 
 <hr>
 
-# 9A. Create a page that has one input, which can take multi-line text and a submit button. Once the user clicks the submit button, it should show the number of characters, words and lines in the text entered using an alert message. Words are seperated with white spaces and lines are sepearted with new line character. 
+### 9A. Create a page that has one input, which can take multi-line text and a submit button. Once the user clicks the submit button, it should show the number of characters, words and lines in the text entered using an alert message. Words are seperated with white spaces and lines are sepearted with new line character. 
 
-# 9B. The world is a dangerous place to live; not because of the people who are evil, but because of the people who dont do anything about it. - by Albert Einstine. Print this using blockquote in Bootstrap. 
+### 9B. The world is a dangerous place to live; not because of the people who are evil, but because of the people who dont do anything about it. - by Albert Einstine. Print this using blockquote in Bootstrap. 
 
 
 **Question 9A: Create a page to analyze multi-line text input**
@@ -768,11 +768,11 @@ Next, create links to navigate between these pages in your HTML template:
 
 <hr>
 
-# 10A. Develop a script using jQuery to solve the following - 
-# i. Limit charcter input in the text area including count. 
-# ii. Based on check box, disable/enable the form submit button. 
+### 10A. Develop a script using jQuery to solve the following - 
+### i. Limit charcter input in the text area including count. 
+### ii. Based on check box, disable/enable the form submit button. 
 
-# 10B. Demonstrate Making HTTP request in angular. 
+### 10B. Demonstrate Making HTTP request in angular. 
 
 **Question 10A: Develop a script using jQuery**
 
