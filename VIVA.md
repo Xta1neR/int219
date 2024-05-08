@@ -1,6 +1,6 @@
 
 
-#Unit I: Overview of HTML, CSS, and JavaScript
+# Unit I: Overview of HTML, CSS, and JavaScript
 
 1. **Question:** What is the purpose of HTML in web development?
    **Answer:** HTML (Hypertext Markup Language) is used for creating the structure and content of web pages.
@@ -32,7 +32,7 @@
 10. **Question:** What is the role of JavaScript in web development?
     **Answer:** JavaScript adds interactivity and dynamic behavior to web pages, allowing for features like form validation, animations, and client-side processing.
 
-#Unit II: Document Object Model in JavaScript
+# Unit II: Document Object Model in JavaScript
 
 1. **Question:** What is the Document Object Model (DOM) in JavaScript?
    **Answer:** The DOM is a programming interface that represents the structure of a document as a tree of objects, allowing JavaScript to interact with and manipulate HTML elements.
@@ -65,7 +65,7 @@
     **Answer:** The DOM allows JavaScript to interact with and modify the content, structure, and style of web pages dynamically, enabling rich, interactive user experiences.
 
 
-#Unit III: Working with jQuery and JSON
+# Unit III: Working with jQuery and JSON
 
 1. **Question:** What is jQuery, and what are its benefits in web development?
    **Answer:** jQuery is a fast, small, and feature-rich JavaScript library that simplifies HTML document traversing, event handling, animating, and AJAX interactions. Its benefits include easier DOM manipulation, event handling, and AJAX requests.
@@ -97,7 +97,7 @@
 10. **Question:** How do you convert a string to a JSON object in JavaScript?
     **Answer:** You can convert a string to a JSON object in JavaScript using the JSON.parse() method.
 
-#Unit IV: Working with Bootstrap
+# Unit IV: Working with Bootstrap
 
 1. **Question:** What is Bootstrap, and why is it used in web development?
    **Answer:** Bootstrap is a popular front-end framework for building responsive and mobile-first websites. It provides pre-designed CSS and JavaScript components for faster and easier web development.
@@ -130,7 +130,7 @@
     **Answer:** Yes, Bootstrap components can be customized by overriding default styles or by using custom CSS classes to modify their appearance and behavior.
 
 
-#Unit V: Basics of Angular
+# Unit V: Basics of Angular
 
 1. **Question:** What is Angular, and what are its main features?
    **Answer:** Angular is a TypeScript-based open-source web application framework maintained by Google. Its main features include two-way data binding, modular architecture, dependency injection, and a comprehensive set of tools for building single-page applications.
@@ -162,7 +162,7 @@
 10. **Question:** How do you create and handle forms in Angular?
     **Answer:** Forms can be created in Angular using template-driven forms or reactive forms. Template-driven forms rely on directives in the template, while reactive forms are built programmatically in the component class. Form input validation and submission handling are essential aspects of form handling in Angular.
 
-#Unit VI: Handling forms and HTTP requests in Angular
+# Unit VI: Handling forms and HTTP requests in Angular
 
 1. **Question:** What are reactive forms in Angular?
    **Answer:** Reactive forms in Angular are model-driven forms that are built programmatically in the component class using form control objects. They offer more flexibility and control over form validation and submission compared to template-driven forms.
