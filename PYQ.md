@@ -1,3 +1,109 @@
+## Simple Navigation Bar
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Simple Navigation Bar</title>
+  <style>
+    /* Style for the navigation bar */
+    .navbar {
+      background-color: #333;
+      overflow: hidden;
+    }
+
+    /* Style for the links inside the navigation bar */
+    .navbar a {
+      float: left;
+      display: block;
+      color: white;
+      text-align: center;
+      padding: 14px 20px;
+      text-decoration: none;
+    }
+
+    /* Change color on hover */
+    .navbar a:hover {
+      background-color: #ddd;
+      color: black;
+    }
+  </style>
+</head>
+<body>
+
+<div class="navbar">
+  <a href="#home">Home</a>
+  <a href="#about">About</a>
+  <a href="#services">Services</a>
+  <a href="#contact">Contact</a>
+</div>
+
+<div style="padding: 20px;">
+  <!-- Content goes here -->
+  <h2>Simple Navigation Bar Example</h2>
+  <p>This is a simple example of a navigation bar using HTML and CSS.</p>
+</div>
+
+</body>
+</html>
+```
+
+<hr>
+
+## Events in HTML 
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Events Example</title>
+  <script>
+    // Function to handle button click event
+    function handleClick() {
+      alert("Button clicked!");
+    }
+
+    // Function to handle input change event
+    function handleChange() {
+      var inputValue = document.getElementById("textInput").value;
+      alert("Input changed. New value: " + inputValue);
+    }
+
+    // Function to handle mouse over event
+    function handleMouseOver() {
+      document.getElementById("mouseOverDiv").innerHTML = "Mouse Over Event Occurred!";
+    }
+
+    // Function to handle mouse out event
+    function handleMouseOut() {
+      document.getElementById("mouseOverDiv").innerHTML = "";
+    }
+  </script>
+</head>
+<body>
+  <h2>Events Example</h2>
+  
+  <!-- Button with click event -->
+  <button onclick="handleClick()">Click Me</button>
+  <br><br>
+
+  <!-- Input field with change event -->
+  <label for="textInput">Enter Text:</label>
+  <input type="text" id="textInput" onchange="handleChange()">
+  <br><br>
+
+  <!-- Div with mouse over and mouse out events -->
+  <div id="mouseOverDiv" onmouseover="handleMouseOver()" onmouseout="handleMouseOut()" style="border: 1px solid black; width: 200px; height: 100px;"></div>
+</body>
+</html>
+```
+
+<hr>
+
 ### Question 1) A. Indicate the loading state of a component or page with bootstrap spinners, built entirely with HTML, CSS.
 ### B. Convert any Javascript value to a JSON string 
 
